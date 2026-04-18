@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "cat-sanctuary-mobile",
+    "slug": "cat-sanctuary-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CSC.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/CSC.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f7efe3"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/CSC.png",
+        "backgroundColor": "#f7efe3"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/CSC.png"
+    }
+  }
+}
